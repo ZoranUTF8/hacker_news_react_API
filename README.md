@@ -1,0 +1,2 @@
+serverside rendring
+using useReducer hook
